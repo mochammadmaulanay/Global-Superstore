@@ -1,0 +1,41 @@
+.content-wrapper, .right-side {
+    background-color: rgba(41,52,65,1);
+    color: white;
+}
+
+.box {
+    background-color: rgba(41,52,65,1);
+    border: 0px;
+    border-bottom: 0 solid transparent;
+    box-shadow: none;
+}
+
+.bg-black {
+    background-color: #1e282c!important;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #1e282c;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #1e282c;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #222d32;
+}
+
+.skin-blue .main-header .logo:hover {
+    background-color: #222d32;
+}
+
+.control-label {
+    font-size: large;
+}
+
+.element.style {
+    color: white;
+}
